@@ -4,9 +4,14 @@
 - Kakao Maps API를 이용하여 주변의 카페를 검색 
 - 카페에 대해 한줄평, 평점을 남길 수 있음
 
+</div>
+
+#### ver 1
+![image](https://user-images.githubusercontent.com/72663337/152947628-68d2e49b-590a-4247-ba9d-5c4289bf31d6.png)
+
 
 ## 기간
-- 2022.01.02 ~ 추가 중
+- 2022.01.02 ~ 추가 중(ver1.5)
 
 ## 기술 스택
 - Backend : **Spring Boot 2.6.1, Java 8**
